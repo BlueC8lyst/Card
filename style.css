@@ -27,7 +27,7 @@ h4 {
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	width: 300px;
+	width: 282px;
 	height: 400px;
 	background: #e0e1dc;
 	transform-style: preserve-3d;
@@ -108,7 +108,7 @@ h4 {
 }
 
 .card .details p {
-	font-size: 15px;
+	font-size: 12px;
 	line-height: 5px;
 	transform: rotate(-10deg);
 	padding: 0 0 0 20px;
